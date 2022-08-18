@@ -1,11 +1,12 @@
 {
   "expo": {
     "name": "TodoAPP2",
-    "slug": "TodoAPP2",
+    "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "owner": "harismuawizkhan",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.harismuawizkhan.todo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
